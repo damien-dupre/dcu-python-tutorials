@@ -1,0 +1,35 @@
+{
+    "courseId": "dcu-python-tutorials",
+    "title": "DCU Python Tutorials",
+    "slogan": "A series of free and interactive tutorials to Python with Polars and plotnine",
+    "description": "These tutorials introduce Python for data wrangling with Polars and data visualisation with plotnine, using the grammar of graphics approach.",
+    "bio": "Ph.D in Social and Experimental Psychology from the University Grenoble-Alpes, France. Now Assistant Professor of Business Research Methods at Dublin City University, my domain of expertise relies on multivariate time series analysis and trend extraction for supervised or unsupervised machine learning classification.",
+    "siteUrl": "https://damien-dupre.github.io/dcu-python-tutorials",
+    "twitter": "",
+    "fonts": "IBM Plex Mono",
+    "testTemplate": "import polars as pl\ngapminder = pl.read_csv('https://raw.githubusercontent.com/damien-dupre/data/refs/heads/master/gapminder.csv')\n{code}\ntry:\n    result\nexcept NameError:\n    result = None",
+    "junpierId": "damien-dupre/dcu-python-tutorials",
+    "showProfileImage": true,
+    "footerLinks": [
+        {
+            "text": "Website",
+            "url": "https://damien-datasci-blog.netlify.com/"
+        },
+        {
+            "text": "Source",
+            "url": "https://github.com/damien-dupre/dcu-python-tutorials"
+        },
+        {
+            "text": "Built with \u2665",
+            "url": "https://github.com/ines/course-starter-python"
+        }
+    ],
+    "theme": "#2563eb",
+    "juniper": {
+        "repo": "damien-dupre/dcu-python-tutorials",
+        "branch": "binder",
+        "kernelType": "python3",
+        "lang": "python",
+        "debug": false
+    }
+}
