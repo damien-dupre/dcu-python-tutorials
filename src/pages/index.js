@@ -18,9 +18,9 @@ export default ({ data }) => {
         <Layout isHome>
             <Logo className={classes.logo} aria-label={siteMetadata.title} />
                         <section>
-                <h1 className={classes.subtitle}>A series of free and interactive tutorials to R</h1>
+                <h1 className={classes.subtitle}>A series of free and interactive tutorials to Python</h1>
                 <div className={classes.introduction}>
-                <p> Welcome to the DCU R Tutorials. This short course will teach you the basic syntax and vocabulary used to code in R. These tutorials are focusing on the Tidyverse R coding style as it is the best to start in my opinion. At the end of these tutorials you will be able to clean and transform a data set, as well as creating fancy visualisations using R.</p>
+                <p> Welcome to the DCU Python Tutorials. This short course will teach you the basic syntax and vocabulary used to code in Python. These tutorials are focusing on the Tidyverse R coding style as it is the best to start in my opinion. At the end of these tutorials you will be able to clean and transform a data set, as well as creating fancy visualisations using Python.</p>
                 </div>
             </section>
             {chapters.map(({ slug, title, description }) => (

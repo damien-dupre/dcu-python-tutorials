@@ -1,6 +1,6 @@
-# DCU R Tutorials
+# DCU Python Tutorials
 
-A series of free and interactive tutorials to R, built with the [course-starter-r](https://github.com/ines/course-starter-r) framework by Ines Montani.
+A series of free and interactive tutorials to Python, built with the [course-starter](https://github.com/ines/course-starter-r) framework by Ines Montani.
 
 ## Local Development
 
