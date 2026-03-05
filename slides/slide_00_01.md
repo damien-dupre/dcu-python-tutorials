@@ -6,7 +6,7 @@ My name is Damien and I am Assistant Professor of Business Research Methods at D
 
 With this series of Tutorials, I would like to introduce you to data wrangling with Polars and data visualisation with plotnine.
 
-<img src="profile.jpg" alt="Damien Dupré" width="25%">
+<img src="https://www.dcu.ie/sites/default/files/styles/max_1300x1300/public/dcu_business_school_editor/2025-01/professional_picture.jpeg" alt="Damien Dupré" width="25%">
 
 Note: **Click on the forward arrow here below** to display the next steps...
 
